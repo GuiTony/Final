@@ -1,0 +1,74 @@
+DEBUG:root:#### Welcome in HubArchiveCreator Debug Mode ####
+
+DEBUG:root:Calling faToTwoBit:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling twoBitInfo:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling sort:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_147.dat
+DEBUG:root:data_value: {u'long_label': u'L122', u'name': u'bamCoverage_on_data_134', u'database': u'', u'track_color': u'#e5b9b7', u'group_name': u'2017-7-10_24_L', u'order_index': u'20'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_140.dat
+DEBUG:root:data_value: {u'long_label': u'L33', u'name': u'bamCoverage_on_data_126', u'database': u'', u'track_color': u'#d99694', u'group_name': u'2017-7-10_24_L', u'order_index': u'21'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_148.dat
+DEBUG:root:data_value: {u'long_label': u'Lall', u'name': u'bamCoverage_on_data_135', u'database': u'', u'track_color': u'#c0504d', u'group_name': u'2017-7-10_24_L', u'order_index': u'22'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_141.dat
+DEBUG:root:data_value: {u'long_label': u'S1_3', u'name': u'bamCoverage_on_data_128', u'database': u'', u'track_color': u'#ebf1dd', u'group_name': u'2017-7-10_24_S', u'order_index': u'30'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_144.dat
+DEBUG:root:data_value: {u'long_label': u'S3', u'name': u'bamCoverage_on_data_131', u'database': u'', u'track_color': u'#d7e3bc', u'group_name': u'2017-7-10_24_S', u'order_index': u'31'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_143.dat
+DEBUG:root:data_value: {u'long_label': u'S2_4', u'name': u'bamCoverage_on_data_130', u'database': u'', u'track_color': u'#c3d69b', u'group_name': u'2017-7-10_24_S', u'order_index': u'32'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_142.dat
+DEBUG:root:data_value: {u'long_label': u'S2', u'name': u'bamCoverage_on_data_129', u'database': u'', u'track_color': u'#76923c', u'group_name': u'2017-7-10_24_S', u'order_index': u'33'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_145.dat
+DEBUG:root:data_value: {u'long_label': u'S4', u'name': u'bamCoverage_on_data_132', u'database': u'', u'track_color': u'#4f6128', u'group_name': u'2017-7-10_24_S', u'order_index': u'34'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_146.dat
+DEBUG:root:data_value: {u'long_label': u'Sall', u'name': u'bamCoverage_on_data_133', u'database': u'', u'track_color': u'#00b050', u'group_name': u'2017-7-10_24_S', u'order_index': u'35'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_25.dat
+DEBUG:root:data_value: {u'long_label': u'Transcripts', u'name': u'Oryza_sativa.IRGSP-1.0.38.gff3', u'database': u'', u'track_color': u'#000000', u'group_name': u'Transcripts', u'order_index': u'10'}
+DEBUG:root:Calling gff3ToGenePred:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling genePredToBigGenePred:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling sort:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:sorted_bed_file_name: /home/tianwei/Galaxy/galaxy/database/tmp/tmpnwvbsr.sorted.bigGenePred
+DEBUG:root:chrom_sizes_file_name: /home/tianwei/Galaxy/galaxy/database/tmp/tmpStKcis.chrom.sizes
+DEBUG:root:big_bed_file_name: /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/tracks/Oryza_sativa.IRGSP-1.0.38.gff3.bb
+DEBUG:root:typeOption: bed12+8
+DEBUG:root:autoSql: /home/tianwei/Galaxy/shed_tools/toolshed.g2.bx.psu.edu/repos/rmarenco/hubarchivecreator/cdd33c5c8ac1/hubarchivecreator/bigGenePred.as
+DEBUG:root:tab option: True
+DEBUG:root:Calling bedToBigBed:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:----- End of all_datatype_dictionary processing -----
+DEBUG:root:all_datatype_ordered_dictionary keys are: [<Gff3.Gff3 object at 0x7fb459ffd0d0>, <BigWig.BigWig object at 0x7fb459ff0a90>, <BigWig.BigWig object at 0x7fb459ff0b90>, <BigWig.BigWig object at 0x7fb459ff0c90>, <BigWig.BigWig object at 0x7fb459ff0a10>, <BigWig.BigWig object at 0x7fb459ff0f90>, <BigWig.BigWig object at 0x7fb459ff0e90>, <BigWig.BigWig object at 0x7fb459ff0d90>, <BigWig.BigWig object at 0x7fb459ffd2d0>, <BigWig.BigWig object at 0x7fb459ff09d0>]
+DEBUG:root:----- Beginning of Track adding processing -----
+DEBUG:root:We just added in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/groups.txt the group Transcripts
+DEBUG:root:We just added track gonramp_Oryza_sativa_IRGSP_1_0_38_gff3_bb (in group transcripts)
+DEBUG:root:We just added in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/groups.txt the group 2017-7-10_24_L
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_134_bigwig (in group 2017-7-10_24_l)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/groups.txt the group 2017-7-10_24_L
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_126_bigwig (in group 2017-7-10_24_l)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/groups.txt the group 2017-7-10_24_L
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_135_bigwig (in group 2017-7-10_24_l)
+DEBUG:root:We just added in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/groups.txt the group 2017-7-10_24_S
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_129_bigwig (in group 2017-7-10_24_s)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/groups.txt the group 2017-7-10_24_S
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_130_bigwig (in group 2017-7-10_24_s)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/groups.txt the group 2017-7-10_24_S
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_131_bigwig (in group 2017-7-10_24_s)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/groups.txt the group 2017-7-10_24_S
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_128_bigwig (in group 2017-7-10_24_s)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/groups.txt the group 2017-7-10_24_S
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_133_bigwig (in group 2017-7-10_24_s)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/142/dataset_149_files/myHub/2017-7-10_24_FD/groups.txt the group 2017-7-10_24_S
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_132_bigwig (in group 2017-7-10_24_s)
+DEBUG:root:----- End of Track adding processing -----
+DEBUG:root:#### End of HubArchiveCreator Debug Mode: Bye! ####

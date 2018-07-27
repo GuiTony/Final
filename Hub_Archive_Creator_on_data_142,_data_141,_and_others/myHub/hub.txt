@@ -1,0 +1,6 @@
+hub gonramp2017-7-10_24_Fd
+shortLabel 2017-7-10_24_FD
+longLabel 2017-7-10_24_FD
+genomesFile genomes.txt
+email 303120291@qq.com
+descriptionUrl 2017-7-10_24_FD.html

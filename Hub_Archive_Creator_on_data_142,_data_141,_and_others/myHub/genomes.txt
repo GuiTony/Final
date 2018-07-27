@@ -1,0 +1,10 @@
+genome 2017-7-10_24_FD
+trackDb 2017-7-10_24_FD/trackDb.txt
+groups 2017-7-10_24_FD/groups.txt
+description 2017-7-10_24_FD
+twoBitPath 2017-7-10_24_FD/2017-7-10_24_FD.2bit
+organism 2017-7-10_24_FD
+defaultPos 1
+orderKey 4500
+scientificName 2017-7-10_24_FD
+htmlPath 2017-7-10_24_FD/description.html

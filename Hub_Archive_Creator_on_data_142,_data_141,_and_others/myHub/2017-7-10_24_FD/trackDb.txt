@@ -1,0 +1,138 @@
+
+track gonramp_Oryza_sativa_IRGSP_1_0_38_gff3_bb
+longLabel Transcripts
+shortLabel Transcripts
+bigDataUrl tracks/Oryza_sativa.IRGSP-1.0.38.gff3.bb
+type bigGenePred
+visibility dense
+thickDrawItem off
+priority 10
+color 0,0,0
+group transcripts
+searchIndex name
+
+track gonramp_bamCoverage_on_data_134_bigwig
+longLabel L122
+shortLabel L122
+bigDataUrl tracks/bamCoverage_on_data_134.bigwig
+visibility full
+priority 20
+color 229,185,183
+group 2017-7-10_24_l
+type bigWig 0.000000 4384.310059
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_126_bigwig
+longLabel L33
+shortLabel L33
+bigDataUrl tracks/bamCoverage_on_data_126.bigwig
+visibility full
+priority 21
+color 217,150,148
+group 2017-7-10_24_l
+type bigWig 0.000000 7157.580078
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_135_bigwig
+longLabel Lall
+shortLabel Lall
+bigDataUrl tracks/bamCoverage_on_data_135.bigwig
+visibility full
+priority 22
+color 192,80,77
+group 2017-7-10_24_l
+type bigWig 0.000000 5892.419922
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_129_bigwig
+longLabel S2
+shortLabel S2
+bigDataUrl tracks/bamCoverage_on_data_129.bigwig
+visibility full
+priority 33
+color 118,146,60
+group 2017-7-10_24_s
+type bigWig 0.000000 7618.569824
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_130_bigwig
+longLabel S2 4
+shortLabel S2 4
+bigDataUrl tracks/bamCoverage_on_data_130.bigwig
+visibility full
+priority 32
+color 195,214,155
+group 2017-7-10_24_s
+type bigWig 0.000000 8187.970215
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_131_bigwig
+longLabel S3
+shortLabel S3
+bigDataUrl tracks/bamCoverage_on_data_131.bigwig
+visibility full
+priority 31
+color 215,227,188
+group 2017-7-10_24_s
+type bigWig 0.000000 7554.129883
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_128_bigwig
+longLabel S1 3
+shortLabel S1 3
+bigDataUrl tracks/bamCoverage_on_data_128.bigwig
+visibility full
+priority 30
+color 235,241,221
+group 2017-7-10_24_s
+type bigWig 0.000000 8312.540039
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_133_bigwig
+longLabel Sall
+shortLabel Sall
+bigDataUrl tracks/bamCoverage_on_data_133.bigwig
+visibility full
+priority 35
+color 0,176,80
+group 2017-7-10_24_s
+type bigWig 0.000000 8239.049805
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_132_bigwig
+longLabel S4
+shortLabel S4
+bigDataUrl tracks/bamCoverage_on_data_132.bigwig
+visibility full
+priority 34
+color 79,97,40
+group 2017-7-10_24_s
+type bigWig 0.000000 8688.259766
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
