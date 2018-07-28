@@ -1,0 +1,10 @@
+genome samMark
+trackDb samMark/trackDb.txt
+groups samMark/groups.txt
+description samMark
+twoBitPath samMark/samMark.2bit
+organism samMark
+defaultPos 1
+orderKey 4500
+scientificName samMark
+htmlPath samMark/description.html

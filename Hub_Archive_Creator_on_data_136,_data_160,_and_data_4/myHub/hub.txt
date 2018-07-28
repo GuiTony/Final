@@ -1,0 +1,6 @@
+hub gonrampSammark
+shortLabel samMark
+longLabel samMark
+genomesFile genomes.txt
+email 303120291@qq.com
+descriptionUrl samMark.html
