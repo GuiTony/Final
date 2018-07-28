@@ -1,0 +1,6 @@
+hub gonrampLd33_Rd
+shortLabel LD33_rD
+longLabel LD33_rD
+genomesFile genomes.txt
+email 303120291@qq.com
+descriptionUrl LD33_rD.html

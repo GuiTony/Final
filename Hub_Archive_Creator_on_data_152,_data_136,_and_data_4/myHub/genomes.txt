@@ -1,0 +1,10 @@
+genome LD33_rD
+trackDb LD33_rD/trackDb.txt
+groups LD33_rD/groups.txt
+description LD33_rD
+twoBitPath LD33_rD/LD33_rD.2bit
+organism LD33_rD
+defaultPos 1
+orderKey 4500
+scientificName LD33_rD
+htmlPath LD33_rD/description.html
