@@ -1,0 +1,28 @@
+
+track gonramp_LDall_MACS2_bigwig_bigwig
+longLabel LDall MACS2
+shortLabel LDall MACS2
+bigDataUrl tracks/LDall_MACS2.bigwig.bigwig
+visibility full
+priority 11
+color 0,0,0
+group ldall
+type bigWig 0.000000 3393.000000
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_135_bigwig
+longLabel LDall
+shortLabel LDall
+bigDataUrl tracks/bamCoverage_on_data_135.bigwig
+visibility full
+priority 10
+color 255,0,0
+group ldall
+type bigWig 0.000000 5892.419922
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
