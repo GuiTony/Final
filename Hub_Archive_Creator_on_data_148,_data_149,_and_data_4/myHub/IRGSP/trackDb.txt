@@ -1,0 +1,28 @@
+
+track gonramp_bamCoverage_on_data_146_bigwig
+longLabel SDInput
+shortLabel SDInput
+bigDataUrl tracks/bamCoverage_on_data_146.bigwig
+visibility full
+priority 11
+color 229,185,183
+group default_group
+type bigWig 0.000000 1869.989990
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+
+
+track gonramp_bamCoverage_on_data_147_bigwig
+longLabel LDInput
+shortLabel LDInput
+bigDataUrl tracks/bamCoverage_on_data_147.bigwig
+visibility full
+priority 10
+color 192,80,77
+group default_group
+type bigWig 0.000000 1690.949951
+autoScale on
+maxHeightPixels 100:32:8
+windowingFunction mean+whiskers
+

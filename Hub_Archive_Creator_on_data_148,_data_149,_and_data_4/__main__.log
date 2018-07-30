@@ -1,0 +1,24 @@
+DEBUG:root:#### Welcome in HubArchiveCreator Debug Mode ####
+
+DEBUG:root:Calling faToTwoBit:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling twoBitInfo:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:Calling sort:
+DEBUG:root:---------
+DEBUG:root:	
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_153.dat
+DEBUG:root:data_value: {u'long_label': u'LDInput', u'name': u'bamCoverage_on_data_147', u'database': u'', u'track_color': u'#c0504d', u'group_name': u'Default group', u'order_index': u'10'}
+DEBUG:root:input_false_path: /home/tianwei/Galaxy/galaxy/database/files/000/dataset_152.dat
+DEBUG:root:data_value: {u'long_label': u'SDInput', u'name': u'bamCoverage_on_data_146', u'database': u'', u'track_color': u'#e5b9b7', u'group_name': u'Default group', u'order_index': u'11'}
+DEBUG:root:----- End of all_datatype_dictionary processing -----
+DEBUG:root:all_datatype_ordered_dictionary keys are: [<BigWig.BigWig object at 0x7fae5f7caa50>, <BigWig.BigWig object at 0x7fae5f7ca950>]
+DEBUG:root:----- Beginning of Track adding processing -----
+DEBUG:root:We just added in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/170/dataset_177_files/myHub/IRGSP/groups.txt the group Default group
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_146_bigwig (in group default_group)
+DEBUG:root:We DON'T add in /home/tianwei/Galaxy/galaxy/database/jobs_directory/000/170/dataset_177_files/myHub/IRGSP/groups.txt the group Default group
+DEBUG:root:We just added track gonramp_bamCoverage_on_data_147_bigwig (in group default_group)
+DEBUG:root:----- End of Track adding processing -----
+DEBUG:root:#### End of HubArchiveCreator Debug Mode: Bye! ####
